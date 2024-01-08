@@ -31,8 +31,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://img.shields.io/github/followers/AADITYAPRABALCHAWLA.svg?style=social&label=Follow&maxAge=2592000)![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AADITYAPRABALCHAWLA&theme=blue-gree)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AADITYAPRABALCHAWLA&theme=blue-green)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
