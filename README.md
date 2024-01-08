@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭   **Interests\:**<br>Data Science, Data Analysis, Cloud Computing and AI/ML.<br><br>
 📚**Certifications\:** <br>1.Stanford Algorithms 2.AWS Certified Cloud Practioner 3.Google Data Analytics 4.AWS Academy Cloud Architecting <br><br>
-🌱 **I’m currently learning:**  <br>Advanced AWS Services and Advanced Data Analysis.<br><br>💬 **Ask me about:**  <br>R-Coding, Python, Data Analysis, Tableau, AWS.<br><br>
+🌱 **I’m currently learning:**  <br>Advanced AWS Services and Advanced Data Analysis.<br><br>💬 **Ask me about:**  <br>R-Coding, Python, Data Analysis, Data Science, Tableau, AWS.<br><br>
 
 
 ## 🌐 Socials:
