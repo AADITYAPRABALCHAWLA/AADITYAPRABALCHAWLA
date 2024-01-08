@@ -31,13 +31,5 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AADITYAPRABALCHAWLA&theme=blue-gree)
+![](https://github-readme-stats.vercel.app/api?username=AADITYAPRABALCHAWLA&theme=blue-gree)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AADITYAPRABALCHAWLA&theme=blue-green)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nwaliaez&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
