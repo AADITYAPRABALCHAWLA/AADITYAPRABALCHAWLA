@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aaditya_prabal_chawla_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-prabal-chawla-03a2b5232/) [![datascienceportal](https://www.datascienceportfol.io/static/imgs/favicon.ico)](https://www.datascienceportfol.io/Aaditya)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aaditya_prabal_chawla_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-prabal-chawla-03a2b5232/) [![datascienceportal](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Din&logoColor=white)](https://www.datascienceportfol.io/Aaditya)
 [![Tableau](https://public.tableau.com/app/favicon.ico)](https://public.tableau.com/app/profile/aaditya.prabal.chawla/vizzes)
 
 
