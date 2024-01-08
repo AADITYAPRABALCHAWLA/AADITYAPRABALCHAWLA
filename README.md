@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭   **Interests\:**<br>Data Science, Data Analysis and Cloud Computing.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+🔭   **Interests\:**<br>Data Science, Data Analysis, Cloud Computing and AI/ML.<br><br>
+📚**Certifications\:** <br>1.Stanford Algorithms 2.AWS Certified Cloud Practioner 3.Google Data Analytics 4.AWS Academy Cloud Architecting <br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and GraphQL.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 
 ## 🌐 Socials:
