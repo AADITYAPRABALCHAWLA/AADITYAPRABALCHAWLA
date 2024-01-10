@@ -31,6 +31,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AADITYAPRABALCHAWLA&theme=blue-gree)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AADITYAPRABALCHAWLA&theme=blue-green)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AADITYAPRABALCHAWLA&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AADITYAPRABALCHAWLA&theme=blue-green)<br>
+
 
